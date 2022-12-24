@@ -40,7 +40,8 @@ INSTALLED_APPS = [
     # third app : 
     'rest_framework',
     # my own app : 
-    "blog.apps.BlogConfig"
+    "blog.apps.BlogConfig",
+    "api.apps.ApiConfig",
 ]
 
 MIDDLEWARE = [
