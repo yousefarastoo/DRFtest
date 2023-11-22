@@ -1,8 +1,8 @@
 
 DRFtest
-Django logo and REST API logoOpens in a new window
-www.caktusgroup.com
+https://www.caktusgroup.com/blog/2018/02/26/basics-django-rest-framework/
 Django logo and REST API logo
+
 Introduction
 DRFtest is a Django REST framework (DRF) project that provides a simple way to create and manage APIs. The library includes utilities for testing DRF views, serializers, and viewsets. It also provides a simple Django project that demonstrates how to use the library.
 
